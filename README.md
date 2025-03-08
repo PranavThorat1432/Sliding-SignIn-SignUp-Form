@@ -34,7 +34,8 @@ A **modern, responsive, and interactive** sign-in & sign-up form with a **smooth
 ![sign1](https://github.com/user-attachments/assets/cb33b032-80da-49c4-88fb-57aad5d1c22b)
 
 ### 🔹 **Sign-up Form**  
-![Sign-up Screenshot]()  
+![sign2](https://github.com/user-attachments/assets/d1c5d20b-8896-4a0e-9879-8c25241ab55e)
+
 
 ---
 
