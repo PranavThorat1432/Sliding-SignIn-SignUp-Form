@@ -31,7 +31,7 @@ A **modern, responsive, and interactive** sign-in & sign-up form with a **smooth
 ## 📸 Screenshots  
 
 ### 🔹 **Sign-in Form**  
-![Sign-in Screenshot]()  
+![sign1](https://github.com/user-attachments/assets/cb33b032-80da-49c4-88fb-57aad5d1c22b)
 
 ### 🔹 **Sign-up Form**  
 ![Sign-up Screenshot]()  
@@ -95,6 +95,7 @@ This project is **MIT Licensed**. Feel free to use and modify it.
 ## 📞 Contact  
 
 💡 **Developed by**: Pranav Thorat
+
 🔗 GitHub: [Click Here](https://github.com/PranavThorat1432)  
 🔗 LinkedIn: [Click Here](https://linkedin.com/in/curiouspranavthorat/)  
 
